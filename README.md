@@ -1,1 +1,1 @@
-[http://dlify.com](dlify.com)
+[dlify.com](http://dlify.com)
